@@ -83,7 +83,7 @@ These plots illustrate how each algorithm and preprocessing combo performs at di
 
 ## 👨‍💻 Author
 
-**[Kunal]**  
+**Kunal**  
 `B.Tech CSE - Data Science | Thapar Institute of Engineering and Technology`
 
 ---
